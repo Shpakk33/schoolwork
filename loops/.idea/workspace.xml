@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a6c544d-0b94-4d6f-9f6a-4e6bd401c90e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/loop_del/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,11 +101,11 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main (4)" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
@@ -160,9 +159,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1340" height="355" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603283155044" />
-    <state x="1096" y="408" key="com.intellij.ide.util.TipDialog" timestamp="1604314797648">
+    <state x="1096" y="408" key="com.intellij.ide.util.TipDialog" timestamp="1604482157602">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1096" y="408" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604314797648" />
+    <state x="1096" y="408" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604482157602" />
   </component>
 </project>
