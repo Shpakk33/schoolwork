@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="440cd945-5e0e-46ac-ba42-d0c46f9b93ec" name="Default Changelist" comment="" />
+    <list default="true" id="ec60046f-2625-4886-8833-036e0f53882e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/if_dz_zadacha1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/if_dz_zadacha2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled104.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/less11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/less11/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,22 +44,25 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1i8SC4X8ZDiyrY99epP5SbfhaoA" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1jw068kaSnWCe9GWiKL1R3vPyiO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="less10.Main" />
+      <option name="MAIN_CLASS_NAME" value="if_dz_zadacha1.Main" />
       <module name="ifElse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="less10.*" />
+          <option name="PATTERN" value="if_dz_zadacha1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -38,11 +71,11 @@
       </method>
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="less5.Main" />
+      <option name="MAIN_CLASS_NAME" value="if_dz_zadacha2.Main" />
       <module name="ifElse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="less5.*" />
+          <option name="PATTERN" value="if_dz_zadacha2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -50,100 +83,68 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="less3.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="ifElse" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="less3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="less8.Main" />
-      <module name="ifElse" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="less8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="less9.Main" />
-      <module name="ifElse" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="less9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="440cd945-5e0e-46ac-ba42-d0c46f9b93ec" name="Default Changelist" comment="" />
-      <created>1601287594537</created>
+      <changelist id="ec60046f-2625-4886-8833-036e0f53882e" name="Default Changelist" comment="" />
+      <created>1604699670103</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1601287594537</updated>
+      <updated>1604699670103</updated>
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state width="853" height="224" key="GridCell.Tab.0.bottom" timestamp="1601456105921">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1556" height="217" key="GridCell.Tab.0.bottom" timestamp="1604702999911">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="853" height="224" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601456105921" />
-    <state width="853" height="224" key="GridCell.Tab.0.center" timestamp="1601456105921">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1556" height="217" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1604702999911" />
+    <state width="1556" height="217" key="GridCell.Tab.0.center" timestamp="1604702999911">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="853" height="224" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601456105921" />
-    <state width="853" height="224" key="GridCell.Tab.0.left" timestamp="1601456105921">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1556" height="217" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1604702999911" />
+    <state width="1556" height="217" key="GridCell.Tab.0.left" timestamp="1604702999911">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="853" height="224" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601456105921" />
-    <state width="853" height="224" key="GridCell.Tab.0.right" timestamp="1601456105921">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1556" height="217" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1604702999911" />
+    <state width="1556" height="217" key="GridCell.Tab.0.right" timestamp="1604702999911">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="853" height="224" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601456105921" />
-    <state x="824" y="408" key="com.intellij.ide.util.TipDialog" timestamp="1603099886738">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="824" y="408" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603099886738" />
+    <state width="1556" height="217" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1604702999911" />
   </component>
 </project>
