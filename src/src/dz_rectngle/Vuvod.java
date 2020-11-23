@@ -1,11 +1,11 @@
 package dz_rectngle;
 
 public class Vuvod {
-    void printPl(int o){
-        System.out.println("площадь поверхности прямоугольника " + o);
+    void printSq(int c){
+        System.out.println("площадь поверхности прямоугольника " + c);
 
     }
-    void print(int a,int b){
+    void printPer(int a){
         System.out.println("периметр прямоугольника" + a);
 
     }

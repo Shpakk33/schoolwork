@@ -7,12 +7,12 @@ public class Main {
       Line a = new Line();
        a.a = 5;
        a.b = 6;
-       a.h = 7;
        SqPer pp = new SqPer();
-        int pp1 = pp.square(a.a, a.b, a.h );
-        rectangle.Vuvod vv = new Vuvod();
-        int pp2 = pp.perimeter(a.a, a.b, a.h);
-
+        int pp1 = pp.square(a.a, a.b );
+        int pp2 = pp.perimeter(a.a, a.b );
+       Vuvod vv = new Vuvod();
+       vv.printSq(pp1);
+       vv.printPer(pp2);
 
     }
 }

@@ -11,4 +11,10 @@ public class Vuvod {
         System.out.println("площадь поверхности прямоугольного паралелепипеда " + a);
         System.out.println("объем прямоугольного паралелепипеда " + b);
     }
+
+    public void printPer(int pp2) {
+    }
+
+    public void printSq(int pp1) {
+    }
 }
