@@ -20,7 +20,10 @@ public class Main {
         System.out.println("произведение данных дробей равно");
         View.display(product);
         Fraction difference = Calculator.dif(f1, f2);
-        System.out.println("деление данных дробей равно");
+        System.out.println("разница данных дробей равна");
         View.display(difference);
+        Fraction fract = Calculator.fra(f1, f2);
+        System.out.println("частное данных дробей равно");
+        View.display(fract);
     }
 }
