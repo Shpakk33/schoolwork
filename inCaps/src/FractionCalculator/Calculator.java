@@ -19,13 +19,13 @@ public class Calculator {
     static Fraction dif(Fraction f1, Fraction f2) {
         Fraction difference = new Fraction();
         difference.denominator = f1.denominator * f2.denominator;
-        difference.numerator = f1.numerator - f2.numerator ;
+        difference.numerator = f1.numerator * f2.denominator - f1.denominator * f2.numerator ;
         return difference;
     }
     static Fraction fra(Fraction f1, Fraction f2) {
         Fraction fract = new Fraction();
         fract.denominator = f1.denominator * f2.numerator;
-        fract.numerator = f1.denominator * f2.numerator;
+        fract.numerator = f2.denominator * f1.numerator;
         return fract;
 
     }
