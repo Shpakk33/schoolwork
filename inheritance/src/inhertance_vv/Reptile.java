@@ -1,4 +1,4 @@
 package inhertance_vv;
 
-public class Reptile {
+public class Reptile extends Animal {
 }

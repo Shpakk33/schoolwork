@@ -1,4 +1,7 @@
 package inheritance_polya;
 
-public class Dog {
+public class Dog extends Animal{
+    String name;
+    int age;
+
 }
