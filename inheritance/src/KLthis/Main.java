@@ -6,5 +6,6 @@ public class Main {
 
         Dog d = new Dog("Rex", 3);
         System.out.println(d.name + " " + d.age);
+
     }
 }
