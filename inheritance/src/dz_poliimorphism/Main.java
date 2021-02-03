@@ -8,11 +8,11 @@ public class Main {
         System.out.println(User == User1);
        System.out.println(User == User2);
 
-        User Artem = new User("Порика 47", "45.5");
+        User Artem = new User("Порика 47", 45.5);
         System.out.println(User.equals(User1));
         System.out.println(User.equals(User2));
 
-        User Andrei = new User("Свободи 29", "78.3");
+        User Andrei = new User("Свободи 29", 78.3);
 
     }
 
